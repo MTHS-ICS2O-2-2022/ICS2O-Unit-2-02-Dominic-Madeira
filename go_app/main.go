@@ -11,8 +11,8 @@ import (
 
 func main() {
 	// This function calculates area and perimeter of a rectangle with dimensions 5cm x 3cm
-	fmt.Println("The perimeter is: ", (2 * (5 + 3)))
-	fmt.Println("The area is: ", (5 * 3) "cm²",)
+	fmt.Println("The perimeter is:", (2 * (5 + 3)), "cm",)
+	fmt.Println("The area is:", (5 * 3), "cm²",)
 
   fmt.Println("\nDone.")
 }
